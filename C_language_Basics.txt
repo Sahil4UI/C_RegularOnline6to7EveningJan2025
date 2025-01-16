@@ -1,0 +1,42 @@
+C programming - Programming language
+Programming language - programs
+Programs - set of instructions
+
+It was developed in 1970 ’s
+1972 - Dennis Ritchie
+
+C is general purpose programming
+1.system software
+2.game development
+3.embedded system - 
+4.web browser
+5.Operating system - windows
+6.Drivers - utility software  - 
+
+How c program runs:
+1.online compilers
+2.vscode
+3.codeblocks
+4.notepad++
+5.turboC - void main
+
+Data Types:
+Numbers - int - 4bytes ,long 8 bytes, (Float 4bytes,double 8 bytes) - decimal
+Boolean - 0,1
+char - character
+
+Variables :
+Naming Conventions:
+1.variable name cannot be started with number or any special character.
+2.variable name cannot contains any special character or spaces other than _
+
+Operators:
+Arithmetical operators / mathematical operators
++,-,/,*,%-modulus - remainder
+
+Relational operators / Comparison Operators
+>,<,>=,<=,!=,==
+
+
+
+
